@@ -1,0 +1,10 @@
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask1_4\iftask1_4\iftask1_4\bin\Debug\netcoreapp2.1\iftask1_4.deps.json
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask1_4\iftask1_4\iftask1_4\bin\Debug\netcoreapp2.1\iftask1_4.runtimeconfig.json
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask1_4\iftask1_4\iftask1_4\bin\Debug\netcoreapp2.1\iftask1_4.runtimeconfig.dev.json
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask1_4\iftask1_4\iftask1_4\bin\Debug\netcoreapp2.1\iftask1_4.dll
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask1_4\iftask1_4\iftask1_4\bin\Debug\netcoreapp2.1\iftask1_4.pdb
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask1_4\iftask1_4\iftask1_4\obj\Debug\netcoreapp2.1\iftask1_4.csproj.CoreCompileInputs.cache
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask1_4\iftask1_4\iftask1_4\obj\Debug\netcoreapp2.1\iftask1_4.AssemblyInfoInputs.cache
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask1_4\iftask1_4\iftask1_4\obj\Debug\netcoreapp2.1\iftask1_4.AssemblyInfo.cs
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask1_4\iftask1_4\iftask1_4\obj\Debug\netcoreapp2.1\iftask1_4.dll
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask1_4\iftask1_4\iftask1_4\obj\Debug\netcoreapp2.1\iftask1_4.pdb

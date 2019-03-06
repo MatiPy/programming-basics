@@ -1,0 +1,11 @@
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask2\ifTask2\bin\Debug\netcoreapp2.1\ifTask2.deps.json
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask2\ifTask2\bin\Debug\netcoreapp2.1\ifTask2.runtimeconfig.json
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask2\ifTask2\bin\Debug\netcoreapp2.1\ifTask2.runtimeconfig.dev.json
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask2\ifTask2\bin\Debug\netcoreapp2.1\ifTask2.dll
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask2\ifTask2\bin\Debug\netcoreapp2.1\ifTask2.pdb
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask2\ifTask2\obj\Debug\netcoreapp2.1\ifTask2.csprojAssemblyReference.cache
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask2\ifTask2\obj\Debug\netcoreapp2.1\ifTask2.csproj.CoreCompileInputs.cache
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask2\ifTask2\obj\Debug\netcoreapp2.1\ifTask2.AssemblyInfoInputs.cache
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask2\ifTask2\obj\Debug\netcoreapp2.1\ifTask2.AssemblyInfo.cs
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask2\ifTask2\obj\Debug\netcoreapp2.1\ifTask2.dll
+C:\dev\digitrade-2018\programming-basic-2018\condition-tasks\ifTask2\ifTask2\obj\Debug\netcoreapp2.1\ifTask2.pdb
