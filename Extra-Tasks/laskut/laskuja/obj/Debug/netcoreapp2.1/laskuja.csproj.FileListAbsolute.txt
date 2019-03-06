@@ -1,0 +1,12 @@
+C:\Users\matias\Desktop\csharp\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.csproj.CoreCompileInputs.cache
+C:\Users\matias\Desktop\csharp\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.AssemblyInfoInputs.cache
+C:\Users\matias\Desktop\csharp\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.AssemblyInfo.cs
+C:\Users\matias\Desktop\csharp\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.csprojAssemblyReference.cache
+C:\dev\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.csprojAssemblyReference.cache
+C:\dev\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.csproj.CoreCompileInputs.cache
+C:\dev\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.AssemblyInfoInputs.cache
+C:\dev\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.AssemblyInfo.cs
+C:\dev\digitrade-2018\programming-basic-2018\extras\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.csprojAssemblyReference.cache
+C:\dev\digitrade-2018\programming-basic-2018\extras\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.csproj.CoreCompileInputs.cache
+C:\dev\digitrade-2018\programming-basic-2018\extras\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.AssemblyInfoInputs.cache
+C:\dev\digitrade-2018\programming-basic-2018\extras\laskuja\laskuja\obj\Debug\netcoreapp2.1\laskuja.AssemblyInfo.cs

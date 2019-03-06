@@ -1,0 +1,14 @@
+C:\Users\matias\Desktop\csharp\kahvikuppi\kahvikuppi\kahvikuppi\obj\Debug\kahvikuppi.csprojAssemblyReference.cache
+C:\Users\matias\Desktop\csharp\kahvikuppi\kahvikuppi\kahvikuppi\obj\Debug\kahvikuppi.csproj.CoreCompileInputs.cache
+C:\Users\matias\Desktop\csharp\kahvikuppi\kahvikuppi\kahvikuppi\bin\Debug\kahvikuppi.exe.config
+C:\Users\matias\Desktop\csharp\kahvikuppi\kahvikuppi\kahvikuppi\bin\Debug\kahvikuppi.exe
+C:\Users\matias\Desktop\csharp\kahvikuppi\kahvikuppi\kahvikuppi\bin\Debug\kahvikuppi.pdb
+C:\Users\matias\Desktop\csharp\kahvikuppi\kahvikuppi\kahvikuppi\obj\Debug\kahvikuppi.exe
+C:\Users\matias\Desktop\csharp\kahvikuppi\kahvikuppi\kahvikuppi\obj\Debug\kahvikuppi.pdb
+C:\dev\kahvikuppi\kahvikuppi\kahvikuppi\bin\Debug\kahvikuppi.exe.config
+C:\dev\kahvikuppi\kahvikuppi\kahvikuppi\bin\Debug\kahvikuppi.exe
+C:\dev\kahvikuppi\kahvikuppi\kahvikuppi\bin\Debug\kahvikuppi.pdb
+C:\dev\kahvikuppi\kahvikuppi\kahvikuppi\obj\Debug\kahvikuppi.csprojAssemblyReference.cache
+C:\dev\kahvikuppi\kahvikuppi\kahvikuppi\obj\Debug\kahvikuppi.csproj.CoreCompileInputs.cache
+C:\dev\kahvikuppi\kahvikuppi\kahvikuppi\obj\Debug\kahvikuppi.exe
+C:\dev\kahvikuppi\kahvikuppi\kahvikuppi\obj\Debug\kahvikuppi.pdb

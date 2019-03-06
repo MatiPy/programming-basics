@@ -1,0 +1,14 @@
+C:\Users\matias\Desktop\csharp\noppa\noppa\noppa\bin\Debug\noppa.exe.config
+C:\Users\matias\Desktop\csharp\noppa\noppa\noppa\bin\Debug\noppa.exe
+C:\Users\matias\Desktop\csharp\noppa\noppa\noppa\bin\Debug\noppa.pdb
+C:\Users\matias\Desktop\csharp\noppa\noppa\noppa\obj\Debug\noppa.csprojAssemblyReference.cache
+C:\Users\matias\Desktop\csharp\noppa\noppa\noppa\obj\Debug\noppa.csproj.CoreCompileInputs.cache
+C:\Users\matias\Desktop\csharp\noppa\noppa\noppa\obj\Debug\noppa.exe
+C:\Users\matias\Desktop\csharp\noppa\noppa\noppa\obj\Debug\noppa.pdb
+C:\dev\digitrade-2018\programming-basic-2018\extras\noppa\noppa\noppa\bin\Debug\noppa.exe.config
+C:\dev\digitrade-2018\programming-basic-2018\extras\noppa\noppa\noppa\bin\Debug\noppa.exe
+C:\dev\digitrade-2018\programming-basic-2018\extras\noppa\noppa\noppa\bin\Debug\noppa.pdb
+C:\dev\digitrade-2018\programming-basic-2018\extras\noppa\noppa\noppa\obj\Debug\noppa.csprojAssemblyReference.cache
+C:\dev\digitrade-2018\programming-basic-2018\extras\noppa\noppa\noppa\obj\Debug\noppa.csproj.CoreCompileInputs.cache
+C:\dev\digitrade-2018\programming-basic-2018\extras\noppa\noppa\noppa\obj\Debug\noppa.exe
+C:\dev\digitrade-2018\programming-basic-2018\extras\noppa\noppa\noppa\obj\Debug\noppa.pdb
